@@ -17,7 +17,7 @@ header a{
     font-weight: 75;
 }
  nav2{
-padding: 3px 1px;
+padding: 4px 0px;
 background-color: white;
 }
 nav2 ul{
@@ -25,9 +25,9 @@ nav2 ul{
     justify-content: center;
     color: black;
     background-color:white;
-    font-size: 30px;
+    font-size: 20px;
     gap: 10rem 3rem;
-    margin: 0rem 0rem;
+    margin: -1rem 0rem;
     list-style-type: none;
 }
 nav2 a{
@@ -62,11 +62,18 @@ nav3 p{
 nav3 h2{
     font-size: 23px;
     font-weight: normal;
-    
+    display: inline;
 }
 nav3 h1{
     text-align: center;
     color :grey;
     text-decoration: underline;
+}
+footer{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 12px;
+    padding: 4.5px 0px;
+    font-weight: bold;
 }
 
